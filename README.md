@@ -19,9 +19,6 @@ A PDF viewer android app #ANDROID_DEV#
 
 This is a README template I created to use in all my projects.
 
-<p align="center" >
-<img src="README_RES/codesnippet.jpg" height="300" width="600">
-</p>
 
 ## Table of Contents
 - [Installation](#Installation)
